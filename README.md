@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dhathri 👋  
+📱 Aspiring iOS Developer | 🎓 M.S. in Computer Science | 💡 Passionate about Creating Seamless Mobile Experiences  
 
-<!--
-**Dhathri33/Dhathri33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m focused on building **beautiful, functional, and user-friendly iOS applications**. My interest lies in combining design, performance, and reliability to create apps people love using. Currently, I’m exploring **Swift**, **SwiftUI**, and **Core ML** to bring intelligent and dynamic features into my mobile projects.  
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- Developing small SwiftUI apps to strengthen my iOS fundamentals.   
+- Learning Apple’s Human Interface Guidelines to create intuitive UI/UX.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **iOS Development**: Swift, SwiftUI, Xcode
+- **Programming**: Python, C++, Java, SQL  
+- **Tools & Platforms**: Git, GitHub, AWS, Google Cloud  
+- **UI/UX**: Prototyping, Accessibility, Mobile Design Principles  
+
+
+## 📫 Connect with Me
+- GitHub: [github.com/Dhathri33](https://github.com/Dhathri33)  
+- LinkedIn: [linkedin.com/in/dhathri-bathini-0587b0236](https://www.linkedin.com/in/dhathri-bathini-0587b0236)  
+- Email: [dbathini@luc.edu](mailto:dbathini@luc.edu)  
+
+
