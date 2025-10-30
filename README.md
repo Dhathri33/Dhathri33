@@ -1,5 +1,5 @@
 #                                                         Dhathri Bathini
-📱 Aspiring iOS Developer | 🎓 M.S. in Computer Science | 💡 Passionate about Creating Seamless Mobile Experiences  
+📱 iOS Developer | 🎓 M.S. in Computer Science | 💡 Passionate about Creating Seamless Mobile Experiences  
 
 I’m focused on building **beautiful, functional, and user-friendly iOS applications**. My interest lies in combining design, performance, and reliability to create apps people love using. Currently, I’m exploring **Swift**, **SwiftUI**, and **Core ML** to bring intelligent and dynamic features into my mobile projects.  
 
