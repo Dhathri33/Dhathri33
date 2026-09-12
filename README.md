@@ -17,6 +17,6 @@ I’m focused on building **beautiful, functional, and user-friendly iOS applica
 ## 📫 Connect with Me
 - GitHub: [github.com/Dhathri33](https://github.com/Dhathri33)  
 - LinkedIn: https://www.linkedin.com/in/dhathri-b-8437a1375/
-- Email: [dbathini@luc.edu](mailto:dbathini@luc.edu)  
+- Email: [dhathri.iosdeveloper@gmail.com](mailto:dhathri.iosdeveloper@gmail.com)  
 
 
